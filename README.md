@@ -27,7 +27,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-
+xx
 #Part 2: Introduction to AI and Prompt Engineering
 
 
